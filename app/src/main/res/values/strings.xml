@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Mini App</string>
+        <string name="string1">Hello, Android!</string>
+        <string name="string2">Welcome to the Demo</string>
+        <string name="string3">Learning Intent Data Transfer</string>
+        <string name="string4">This is fun!</string>
+        <string name="string5">Enjoy Kotlin Programming!</string>
+    </resources>

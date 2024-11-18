@@ -1,0 +1,25 @@
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        android:padding="16dp">
+
+        <TextView
+            android:id="@+id/textViewDisplay"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Retrieved Data" />
+
+        <Button
+            android:id="@+id/buttonNavigateToThird"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Go to ThirdActivity" />
+    </LinearLayout>
+
+
+</androidx.constraintlayout.widget.ConstraintLayout>
